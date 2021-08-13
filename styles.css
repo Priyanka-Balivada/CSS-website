@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #BBBBBB;
+  height: 5px;
+  border-width: 6px;
+  width: 5%;
+  margin: 90px auto 90px auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #66BFBF;
+}
+
+.sub {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+/*span{
+  text-decoration: underline;
+}*/
+/*p{
+  margin: 0;
+}*/
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  /*line-height: 2;*/
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+.b-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.t-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin-right: 35px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.coding-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.painting-img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.para1 {
+  color: #40514E;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+p {
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.para2 {
+  margin: 40px auto 40px auto;
+}
+
+.btn {
+  -webkit-border-radius: 19px;
+  -moz-border-radius: 19px;
+  border-radius: 19px;
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 16px;
+  background-color: #3EDBF0;
+  border: solid #3EDBF0 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.btn:hover {
+  background: #1E62D0;
+  border: solid #0059A0 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
